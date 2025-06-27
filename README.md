@@ -25,7 +25,7 @@ CSS (inline for Streamlit)
 
 💡 How to Run
 Clone this repository:
-git clone : https://github.com/Luckybisht2811/Online-Retail-Recommendation-System/tree/main
+git clone : https://github.com/Luckybisht2811/Online-Retail-Recommendation-System
 
 Install dependencies:
 pip install -r requirements.txt
